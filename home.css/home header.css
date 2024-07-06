@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+header{
+    height: 50px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 15px;
+    color: blueviolet;
+    text-decoration:overline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+

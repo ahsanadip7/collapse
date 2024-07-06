@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+}
+
+nav > ul{
+    display: flex;
+    
+  
+   
+}
+nav li {
+    list-style: none;
+   
+    margin: auto;
+  
+    
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+nav li:hover{
+   background-color: lightslategray;
+}
+
+ul {
+  
+    background-color: lightgoldenrodyellow;
+}
+
+
+header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   padding-top:  20px;
+    height: 50px;
+    text-align: center;
+    background-color: lightpink;
+    color: darkmagenta;
+}
+
+main{
+    padding: 10px 10px;
+    background-color: lightpink;
+}
+h4{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: darkblue;
+}
+
+div{ margin-top: 10px;
+    padding: 5px 5px;
+    border: 2px solid red;
+}
