@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+header{
+    height: 50px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 25px;
+    color:crimson; 
+    text-decoration:overline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+fieldset{
+    background-color: lightcyan;
+    margin-top: 20px;
+    padding-top: 20px;
+    height: 650px; width:1000px;
+}
